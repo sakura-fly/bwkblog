@@ -1,0 +1,34 @@
+body{
+    background-color: #d2e9fb;
+}
+.msgk{
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.b-head-pic{
+    width: 60px;
+    height: 60px;
+    float: left;
+}
+.b-content{
+    margin-top: 15px;
+    font-size: 16px;
+}
+span{
+    white-space: pre-wrap;
+}
+
+.b-ft {
+    color: #aaa;
+}
+
+.b-fn {
+}
+
+.b-topic-nt{
+    /*margin: 60px;*/
+    font-size: 18px;
+    margin-left: 80px;
+}
